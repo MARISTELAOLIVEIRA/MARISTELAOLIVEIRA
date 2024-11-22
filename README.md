@@ -20,6 +20,8 @@
       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </div>
 
+<img height="110" width="110" src="giphy.webp">
+
 ## Minhas redes
 <div>
 <a href="https://www.linkedin.com/in/%C3%A9rica-santos-bbba3b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
