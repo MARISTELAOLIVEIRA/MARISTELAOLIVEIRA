@@ -35,7 +35,7 @@
 ## 🚀 Meus Projetos
 
 <div style="text-align: center;">
-  <a href="https://github.com/MARISTELAOLIVEIRA/Tudo" target="_blank">
+  <a href="https://github.com/MARISTELAOLIVEIRA" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
