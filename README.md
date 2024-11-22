@@ -1,7 +1,5 @@
 ## Hi there 👋
       
-## Saudações humano 🖖
-
 - 🔭 No momento trabalho como Técnico Suporte I
 - 🌱 Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
@@ -24,7 +22,7 @@
 
 ## Minhas redes
 <div>
-<a href="https://www.linkedin.com/in/%C3%A9rica-santos-bbba3b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/maristelanunesoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </div>
 
 ## 📊 Meus Status no GitHub
