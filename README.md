@@ -1,6 +1,6 @@
 ## Hi there 👋
       
-- 🔭 No momento trabalho como Técnico Suporte I
+- 🔭 Professora Técnico / Faculdade
 - 🌱 Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
