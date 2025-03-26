@@ -16,6 +16,7 @@
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
 
 <img height="110" width="110" src="giphy.webp">
