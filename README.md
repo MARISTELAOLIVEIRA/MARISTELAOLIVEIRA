@@ -1,23 +1,23 @@
 ## Hi there 👋
       
-- 🔭 Professora Técnico / Faculdade
-- 🌱 Python, JavaScript, SQL, HTML e CSS  
+- 🔭 Professora Técnico / Profissional/ Superior | Analista de Sistemas | Cientista da Computação
+- 🌱  Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
 ## Minhas Principais Ferramentas
-<div align="center" style="display: inline_block; background-color: whithe;" ><br>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+<div bgcolor='white' align="center" style="display: inline_block;" ><br>
+<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 <img align="center" height="40" width="50" src="https://github.com/MARISTELAOLIVEIRA/Imagens/blob/main/Flask.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-      <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
 
 <img height="110" width="110" src="giphy.webp">
