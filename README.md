@@ -7,7 +7,7 @@
 ## Minhas Principais Ferramentas
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
