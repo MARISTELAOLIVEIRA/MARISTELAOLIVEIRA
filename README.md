@@ -1,6 +1,6 @@
 ## Hi there 👋
       
-- 🎓 Professora Técnico / Profissional / Superior  |  Analista de Sistemas  |  Cientista
+- 🎓 Professora: Superior, Técnico, Profissional |  Analista de Sistemas  |  Cientista
 - 🌱  Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
