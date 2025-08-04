@@ -8,8 +8,8 @@
 <div bgcolor='white' align="center" style="display: inline_block;" ><br>
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-<img align="center" height="40" width="50" src="https://github.com/MARISTELAOLIVEIRA/Imagens/blob/main/Flask.svg">
-<img align="center" height="40" width="50" src="https://github.com/MARISTELAOLIVEIRA/Imagens/blob/main/GitHub.svg">
+<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/MARISTELAOLIVEIRA/media/main/flask.png">
+<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/MARISTELAOLIVEIRA/media/main/img/Captura%20de%20Tela%202025-08-04%20a%CC%80s%2013.03.49.png">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
