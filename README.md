@@ -1,7 +1,7 @@
 ## Hi there 👋
       
 - 🎓 Professora: Superior, Técnico, Profissional |  Analista de Sistemas  |  Cientista
-- 🌱  Python, JavaScript, SQL, HTML e CSS  
+- 🌱  Python, JavaScript, Java, Swift, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
 ## Minhas Principais Ferramentas
