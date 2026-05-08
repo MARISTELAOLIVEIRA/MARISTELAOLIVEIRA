@@ -5,7 +5,7 @@
 - 😄 Ela/Dela
 
 ## Minhas Principais Ferramentas
-<div bgcolor='white' align="center" style="display: inline_block;" ><br>
+<div bgcolor='white' align="center" style="display: inline_block;" >
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/MARISTELAOLIVEIRA/media/main/flask.png">
