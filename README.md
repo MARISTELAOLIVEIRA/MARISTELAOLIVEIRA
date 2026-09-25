@@ -25,6 +25,7 @@
 ## Minhas redes
 <div>
 <a href="https://www.linkedin.com/in/maristelanunesoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://github.com/sponsors/MARISTELAOLIVEIRA" target="_blank"><img src="https://img.shields.io/badge/-Apoie%20meu%20trabalho-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoie meu trabalho no GitHub Sponsors"></a>
 </div>
 
 ## 📊 Meus Status no GitHub
