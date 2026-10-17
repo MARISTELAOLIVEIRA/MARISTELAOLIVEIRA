@@ -90,7 +90,26 @@ Cada disciplina tem o seu próprio site, com aulas, tutoriais passo a passo, des
 
 ## 🧠 Cada cérebro tem a sua própria arquitetura
 
-Apoio alunos e professores no tema da **neurodivergência**: autismo, altas habilidades, TDAH, processamento auditivo e ansiedade. Ajudo a pensar adaptações em sala, a entender direitos e a encontrar informação confiável.
+Eu sou neurodivergente, e faço questão que você saiba. A minha placa veio com estes componentes de fábrica:
+
+```text
+stela@placa ~ $ lshw -class cerebro
+  *-cerebro
+       descrição: arquitetura própria, sem modo de economia de energia
+       componentes:
+         TEA      · Transtorno do Espectro Autista
+         AH/SD    · Altas Habilidades / Superdotação
+         TPAC     · Transtorno do Processamento Auditivo Central
+         TDAH     · Transtorno do Déficit de Atenção com Hiperatividade
+         TAG      · Transtorno de Ansiedade Generalizada
+       status: funcionando, do meu jeito ✔
+```
+
+Não é defeito de fábrica: é outra arquitetura. Ela me deu foco intenso, um jeito próprio de aprender e muita empatia com quem também não cabe no padrão. 💚
+
+Falo disso abertamente porque representatividade importa. Se um aluno ou colega se reconhecer aqui, quero que saiba: **dá para ser neurodivergente e chegar onde você quiser na tecnologia.**
+
+Apoio alunos e professores no tema: adaptações em sala, direitos e informação confiável.
 
 > Uma aula boa para quem é neurodivergente é melhor para todo mundo: instruções escritas, combinados claros, previsibilidade e espaço para errar sem medo.
 
@@ -98,9 +117,22 @@ Por isso os meus sites têm fonte **Atkinson Hyperlegible**, botão para aumenta
 
 ---
 
-## 🎤 Palestras e formação de professores
+## 🎤 Palestras e workshops
 
-**Ferramentas Microsoft para a sala de aula** · formação para professores do Senac DF: **Teams**, **Loop**, **Whiteboard** e **Copilot** no dia a dia da docência.
+```text
+stela@placa ~ $ ls ~/palestras/
+```
+
+| | Tema | Do que eu falo |
+|:-:|---|---|
+| ♿ | **Programação inclusiva** | Código, sites e aulas que funcionam para todos os cérebros: acessibilidade, neurodiversidade e design que acolhe. |
+| 🤖 | **IA responsável** | Usar IA com senso crítico: a IA ajuda, mas quem entende, confere e decide é a gente. |
+| 🐙 | **GitHub** | Do primeiro commit ao portfólio: Git, GitHub e GitHub Pages para quem está começando. |
+| 🐍 | **Programação Python** | Lógica e Python com a mão na massa, do primeiro `print()` às ferramentas de segurança. |
+| 🧰 | **Ferramentas Microsoft para a sala de aula** | Teams, Loop, Whiteboard e Copilot no dia a dia da docência, em formação para professores do Senac DF. |
+| ➕ | **E outras** | Me chama para conversar sobre tecnologia, educação e inclusão. 😉 |
+
+> Quer uma palestra ou um workshop na sua escola, empresa ou evento? Me chama no [LinkedIn](https://www.linkedin.com/in/maristelanunesoliveira/). 🎤
 
 ---
 
