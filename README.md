@@ -185,6 +185,8 @@ Cada disciplina tem o seu próprio site, com aulas, tutoriais passo a passo, des
 
 ## 🎤 Palestras e workshops
 
+<img src="assets/palestra.webp" alt="Stela de microfone na mão, falando para professores em frente a um painel azul de evento" width="190" align="right">
+
 ```text
 stela@placa ~ $ ls ~/palestras/
 ```
