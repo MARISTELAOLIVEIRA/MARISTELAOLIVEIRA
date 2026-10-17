@@ -179,7 +179,6 @@ Cada disciplina tem o seu próprio site, com aulas, tutoriais passo a passo, des
 | 🔐 | **Segurança da Informação** | [Lógica com Python](https://maristelaoliveira.github.io/Python-Logica/) · [Segurança em Nuvem](https://maristelaoliveira.github.io/seguranca-nuvem/) |
 | 🖧 | **Gestão de TI** | [Administração de Recursos Computacionais](https://maristelaoliveira.github.io/adm-recursos/) |
 | 🏅 | **Preparatórios de certificação** | [CCNA](https://maristelaoliveira.github.io/Preparatorio-CCNAV7/) · [AWS Cloud Foundations](https://maristelaoliveira.github.io/Preparatorio-AWS/) · [AZ-900](https://maristelaoliveira.github.io/Preparatorio-AZ900/) |
-| ⭐ | **Para todo mundo** | [Curso de GitHub: do zero ao portfólio](https://maristelaoliveira.github.io/curso-github/) |
 
 ---
 
