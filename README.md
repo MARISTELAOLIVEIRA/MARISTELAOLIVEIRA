@@ -39,6 +39,18 @@ stela@placa ~ $ uptime
 
 ---
 
+## 🕹️ A minha placa em 3D
+
+<p align="center">
+  <a href="https://maristelaoliveira.github.io/placa-3d.html">
+    <img src="assets/placa-3d.svg" alt="A placa da Stela em 3D, flutuando, com o chip STELA no centro e os chips Python, Nuvem, Redes, IA, IoT e Pessoas. Clique para abrir a versão interativa." width="100%">
+  </a>
+</p>
+
+<p align="center"><b><a href="https://maristelaoliveira.github.io/placa-3d.html">▶ Abrir a placa interativa</a></b>: gire com o mouse, o dedo ou as setas, e clique nos chips para conhecer cada parte.</p>
+
+---
+
 ## 🌳 `git log --oneline --graph formacao`
 
 ```text
@@ -105,6 +117,20 @@ stela@placa ~ $ lshw -class cerebro
        status: funcionando, do meu jeito ✔
 ```
 
+<p align="center">
+  <img src="assets/infinito.svg" alt="Infinito arco-íris da neurodiversidade" width="240">
+</p>
+
+| Símbolo | O que representa |
+|:-:|---|
+| ♾️ 🌈 **Infinito arco-íris** | A **neurodiversidade** como um todo: todos os jeitos de um cérebro funcionar. |
+| ♾️ 🟡 **Infinito dourado** | O **autismo (TEA)**. Dourado porque Au é o símbolo químico do ouro e o começo de *autism*. Foi escolhido pela própria comunidade autista, no lugar do antigo quebra-cabeça. |
+| 🌻 **Cordão de girassol** | As **deficiências ocultas**, aquelas que não aparecem à primeira vista. No Brasil, o uso foi reconhecido na Lei 14.624/2023. |
+| 🟠 **Laranja** | A cor das campanhas de conscientização sobre o **TDAH**. |
+| 💚 **Fita verde** | A **saúde mental**, que inclui a **ansiedade (TAG)**. |
+
+> AH/SD e TPAC ainda não têm um símbolo próprio consolidado: entram no infinito arco-íris da neurodiversidade. 🌈
+
 Não é defeito de fábrica: é outra arquitetura. Ela me deu foco intenso, um jeito próprio de aprender e muita empatia com quem também não cabe no padrão. 💚
 
 Falo disso abertamente porque representatividade importa. Se um aluno ou colega se reconhecer aqui, quero que saiba: **dá para ser neurodivergente e chegar onde você quiser na tecnologia.**
@@ -113,7 +139,7 @@ Apoio alunos e professores no tema: adaptações em sala, direitos e informaçã
 
 > Uma aula boa para quem é neurodivergente é melhor para todo mundo: instruções escritas, combinados claros, previsibilidade e espaço para errar sem medo.
 
-Por isso os meus sites têm fonte **Atkinson Hyperlegible**, botão para aumentar o texto, botão para pausar animações, tema claro e escuro, e o mesmo menu em todas as disciplinas. ♿
+<img src="assets/acessibilidade.svg" alt="Símbolo de acessibilidade" width="26" align="left"> Por isso os meus sites têm fonte **Atkinson Hyperlegible**, botão para aumentar o texto, botão para pausar animações, tema claro e escuro, e o mesmo menu em todas as disciplinas.
 
 ---
 
@@ -136,15 +162,31 @@ stela@placa ~ $ ls ~/palestras/
 
 ---
 
-## ♻️ Arte com sucata eletrônica
+## ♻️ TI Verde e arte com sucata eletrônica
 
-Placas, CIs e componentes que iam para o lixo viram peças novas. Por isso tudo o que eu faço termina igual:
+Placas, CIs e componentes que iam para o lixo viram peças novas. TI Verde, para mim, é isso: tecnologia que respeita o planeta, do descarte consciente ao reaproveitamento criativo. Por isso tudo o que eu faço termina igual:
 
 ```python
 while True:
     if componente.vai_para_o_lixo():
         arte.append(componente)   # nada se perde, tudo se solda 🔥
 ```
+
+### 🌱 Circuito Verde · *reciclando ideias, reprogramando o futuro*
+
+O **[Circuito Verde](https://github.com/MARISTELAOLIVEIRA/circuitoverde)** é a minha iniciativa que junta tecnologia, educação, inclusão e sustentabilidade, com cultura Maker e muita sucata eletrônica reaproveitada.
+
+```text
+stela@placa ~/circuito-verde $ git checkout -b loja
+Switched to a new branch 'loja'
+stela@placa ~/circuito-verde $ cat ROADMAP.md
+  [x] site com a missão, os projetos e a galeria
+  [ ] loja on-line: automações com ESP32 e Arduino
+  [ ] loja on-line: arte com sucata eletrônica
+  [ ] cada compra tira um pouco de lixo eletrônico do caminho ♻️
+```
+
+> A próxima fase vem aí: virar um **e-commerce** para as minhas automações e a minha arte. Fique de olho! 👀
 
 ---
 
