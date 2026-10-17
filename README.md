@@ -39,15 +39,98 @@ stela@placa ~ $ uptime
 
 ---
 
+## 🧠 Cada cérebro tem a sua própria arquitetura
+
+Eu sou neurodivergente, e faço questão que você saiba. A minha placa veio com estes componentes de fábrica:
+
+```text
+stela@placa ~ $ lshw -class cerebro
+  *-cerebro
+       descrição: arquitetura própria, sem modo de economia de energia
+       componentes:
+         TEA      · Transtorno do Espectro Autista
+         AH/SD    · Altas Habilidades / Superdotação
+         TPAC     · Transtorno do Processamento Auditivo Central
+         TDAH     · Transtorno do Déficit de Atenção com Hiperatividade
+         TAG      · Transtorno de Ansiedade Generalizada
+       status: funcionando, do meu jeito ✔
+```
+
+<p align="center">
+  <img src="assets/infinito.svg" alt="Infinito arco-íris da neurodiversidade" width="240">
+</p>
+
+| Símbolo | O que representa |
+|:-:|---|
+| ♾️ 🌈 **Infinito arco-íris** | A **neurodiversidade** como um todo: todos os jeitos de um cérebro funcionar. |
+| ♾️ 🟡 **Infinito dourado** | O **autismo (TEA)**. Dourado porque Au é o símbolo químico do ouro e o começo de *autism*. Foi escolhido pela própria comunidade autista, no lugar do antigo quebra-cabeça. |
+| 🌻 **Cordão de girassol** | As **deficiências ocultas**, aquelas que não aparecem à primeira vista. No Brasil, o uso foi reconhecido na Lei 14.624/2023. |
+| 🟠 **Laranja** | A cor das campanhas de conscientização sobre o **TDAH**. |
+| 💚 **Fita verde** | A **saúde mental**, que inclui a **ansiedade (TAG)**. |
+
+> AH/SD e TPAC ainda não têm um símbolo próprio consolidado: entram no infinito arco-íris da neurodiversidade. 🌈
+
+Não é defeito de fábrica: é outra arquitetura. Ela me deu foco intenso, um jeito próprio de aprender e muita empatia com quem também não cabe no padrão. 💚
+
+Falo disso abertamente porque representatividade importa. Se um aluno ou colega se reconhecer aqui, quero que saiba: **dá para ser neurodivergente e chegar onde você quiser na tecnologia.**
+
+Apoio alunos e professores no tema: adaptações em sala, direitos e informação confiável.
+
+> Uma aula boa para quem é neurodivergente é melhor para todo mundo: instruções escritas, combinados claros, previsibilidade e espaço para errar sem medo.
+
+<img src="assets/acessibilidade.svg" alt="Símbolo de acessibilidade" width="26" align="left"> Por isso os meus sites têm fonte **Atkinson Hyperlegible**, botão para aumentar o texto, botão para pausar animações, tema claro e escuro, e o mesmo menu em todas as disciplinas.
+
+---
+
 ## 🕹️ A minha placa em 3D
 
 <p align="center">
-  <a href="https://maristelaoliveira.github.io/placa-3d.html">
-    <img src="assets/placa-3d.svg" alt="A placa da Stela em 3D, flutuando, com o chip STELA no centro e os chips Python, Nuvem, Redes, IA, IoT e Pessoas. Clique para abrir a versão interativa." width="100%">
-  </a>
+  <img src="assets/placa-3d.svg" alt="A placa da Stela em 3D, flutuando, com o chip STELA no centro e os chips Python, Nuvem, Redes, IA, IoT e Pessoas ligados por trilhas com pulsos de luz." width="80%">
 </p>
 
-<p align="center"><b><a href="https://maristelaoliveira.github.io/placa-3d.html">▶ Abrir a placa interativa</a></b>: gire com o mouse, o dedo ou as setas, e clique nos chips para conhecer cada parte.</p>
+<p align="center"><sub>👇 Clique em cada chip para ver o que está ligado a mim.</sub></p>
+
+<details>
+<summary>🟢 <b>U1 · STELA</b> · o chip central</summary>
+<br>
+Professora de TI no Senac DF há 12 anos. Entrei pela telecom e nunca achei a porta de saída. Minha mente não tem modo de economia de energia. ⚡
+</details>
+
+<details>
+<summary>🐍 <b>Python</b> · programação</summary>
+<br>
+Python e JavaScript são as minhas favoritas. Também PHP, HTML, CSS, Git e GitHub. Nos meus sites de aula, o Python roda até dentro do navegador.
+</details>
+
+<details>
+<summary>☁️ <b>Nuvem</b> · AWS e Azure</summary>
+<br>
+AWS e Azure, com foco em segurança em nuvem. Aos sábados, preparatórios de AWS Cloud Foundations e AZ-900.
+</details>
+
+<details>
+<summary>🌐 <b>Redes</b> · Cisco e CCNA</summary>
+<br>
+Redes e infraestrutura com Cisco. No preparatório CCNA, a turma treina sub-redes numa maratona com ranking. 🏁
+</details>
+
+<details>
+<summary>🤖 <b>IA</b> · inteligência artificial e segurança</summary>
+<br>
+Machine Learning, Segurança da Informação e IA com consciência: a IA ajuda, mas quem entende, confere e decide é a gente.
+</details>
+
+<details>
+<summary>📡 <b>IoT</b> · onde tudo se encontra</summary>
+<br>
+Hardware, software, conectividade e nuvem no mesmo projeto. ESP32 e Arduino são onde tudo o que eu sei vira coisa de verdade.
+</details>
+
+<details>
+<summary>💚 <b>Pessoas</b> · inclusão e neurodiversidade</summary>
+<br>
+Inclusão, neurodiversidade e formação de professores. Ligo hardware, software e, principalmente, gente.
+</details>
 
 ---
 
@@ -97,49 +180,6 @@ Cada disciplina tem o seu próprio site, com aulas, tutoriais passo a passo, des
 | 🖧 | **Gestão de TI** | [Administração de Recursos Computacionais](https://maristelaoliveira.github.io/adm-recursos/) |
 | 🏅 | **Preparatórios de certificação** | [CCNA](https://maristelaoliveira.github.io/Preparatorio-CCNAV7/) · [AWS Cloud Foundations](https://maristelaoliveira.github.io/Preparatorio-AWS/) · [AZ-900](https://maristelaoliveira.github.io/Preparatorio-AZ900/) |
 | ⭐ | **Para todo mundo** | [Curso de GitHub: do zero ao portfólio](https://maristelaoliveira.github.io/curso-github/) |
-
----
-
-## 🧠 Cada cérebro tem a sua própria arquitetura
-
-Eu sou neurodivergente, e faço questão que você saiba. A minha placa veio com estes componentes de fábrica:
-
-```text
-stela@placa ~ $ lshw -class cerebro
-  *-cerebro
-       descrição: arquitetura própria, sem modo de economia de energia
-       componentes:
-         TEA      · Transtorno do Espectro Autista
-         AH/SD    · Altas Habilidades / Superdotação
-         TPAC     · Transtorno do Processamento Auditivo Central
-         TDAH     · Transtorno do Déficit de Atenção com Hiperatividade
-         TAG      · Transtorno de Ansiedade Generalizada
-       status: funcionando, do meu jeito ✔
-```
-
-<p align="center">
-  <img src="assets/infinito.svg" alt="Infinito arco-íris da neurodiversidade" width="240">
-</p>
-
-| Símbolo | O que representa |
-|:-:|---|
-| ♾️ 🌈 **Infinito arco-íris** | A **neurodiversidade** como um todo: todos os jeitos de um cérebro funcionar. |
-| ♾️ 🟡 **Infinito dourado** | O **autismo (TEA)**. Dourado porque Au é o símbolo químico do ouro e o começo de *autism*. Foi escolhido pela própria comunidade autista, no lugar do antigo quebra-cabeça. |
-| 🌻 **Cordão de girassol** | As **deficiências ocultas**, aquelas que não aparecem à primeira vista. No Brasil, o uso foi reconhecido na Lei 14.624/2023. |
-| 🟠 **Laranja** | A cor das campanhas de conscientização sobre o **TDAH**. |
-| 💚 **Fita verde** | A **saúde mental**, que inclui a **ansiedade (TAG)**. |
-
-> AH/SD e TPAC ainda não têm um símbolo próprio consolidado: entram no infinito arco-íris da neurodiversidade. 🌈
-
-Não é defeito de fábrica: é outra arquitetura. Ela me deu foco intenso, um jeito próprio de aprender e muita empatia com quem também não cabe no padrão. 💚
-
-Falo disso abertamente porque representatividade importa. Se um aluno ou colega se reconhecer aqui, quero que saiba: **dá para ser neurodivergente e chegar onde você quiser na tecnologia.**
-
-Apoio alunos e professores no tema: adaptações em sala, direitos e informação confiável.
-
-> Uma aula boa para quem é neurodivergente é melhor para todo mundo: instruções escritas, combinados claros, previsibilidade e espaço para errar sem medo.
-
-<img src="assets/acessibilidade.svg" alt="Símbolo de acessibilidade" width="26" align="left"> Por isso os meus sites têm fonte **Atkinson Hyperlegible**, botão para aumentar o texto, botão para pausar animações, tema claro e escuro, e o mesmo menu em todas as disciplinas.
 
 ---
 
