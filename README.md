@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b><a href="https://maristelaoliveira.github.io/">🌐 Portal da Stela</a></b>
+  <b><a href="https://maristelaoliveira.github.io/"><img src="assets/estrela.png" alt="" height="20" align="top"> Portal da Stela</a></b>
   &nbsp;·&nbsp;
   <b><a href="https://www.linkedin.com/in/maristelanunesoliveira/">💼 LinkedIn</a></b>
   &nbsp;·&nbsp;
